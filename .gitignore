@@ -1,1 +1,7 @@
-./2D_NeMo
+.vs
+Temp
+Library
+
+*.sln
+*.meta
+*.csproj
